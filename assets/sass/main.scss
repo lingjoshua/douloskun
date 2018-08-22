@@ -653,7 +653,7 @@ button,
   header {
     background: #fff;
     margin: 0;
-    padding: 1em 0 1em 0;
+    padding: 0.7em 0 0.7em 0;
     font-size: 0.8em;
 
     h3 {
@@ -1278,3 +1278,15 @@ button,
     }
   }
 }
+
+/* CUSTOM */
+
+iframe {
+  width: 100%;
+}
+
+.iframe-container {
+  background: black;
+}
+
+/* END CUSTOM */
